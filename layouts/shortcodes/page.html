@@ -1,0 +1,9 @@
+{{- $page := .Get 0 -}}
+{{- $altname := .Get 1 -}}
+{{- $pageinfo := index .Site.Data.pages $page -}} 
+{{- with $pageinfo -}}
+    <a href="{{ index $pageinfo "url" }}" target="_blank">{{- if $altname -}}{{- $altname -}}{{- else -}}{{ index $pageinfo "name" }}{{end}}</a>
+{{- else -}}
+<b>@@ ERROR! page `{{ $page }}` not found @@</b>
+{{ errorf "Page '%s' not found in pages database (for %s)" $page .Page.File}}
+{{- end -}}

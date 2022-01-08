@@ -1,0 +1,11 @@
+# completely cleared out for 2022, bring things in piecemeal
+#
+# remember, these are used for both the workbooks as well as the main page
+# so we do have references to the main page.
+# it got crazy unweildy very quickly
+#
+# this year, we'll divide things up...
+# we'll have a different shortcode - for different things
+#   page (this DB) things on the external web that we expect to be permanent
+#   cweb - things on the course web that workbooks refer to
+#   cfile - canvas files (auto generated db)

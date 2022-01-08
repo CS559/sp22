@@ -1,0 +1,23 @@
+{{/** simple shortcode to test out the workbooks data setup 
+    **/}}
+<ul>
+    <li>not from data</li>
+</ul>
+
+{{ $.Site.Data.workbooks.tests.array }}
+{{ $.Site.Data.workbooks.tests.dict }}
+
+{{ range $.Site.Data.workbooks.tests.dict }}
+{{ . }}
+{{end}}
+
+{{ range $.Site.Data.workbooks.tests.table }}
+{{ . }}
+{{end}}
+
+{{ range sort $.Site.Data.workbooks.tests.table }}
+{{ . }}
+{{end}}
+
+{{ $.Site.Data.workbooks.tests.mix }}
+{{ sort $.Site.Data.workbooks.tests.mix }}

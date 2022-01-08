@@ -1,0 +1,14 @@
+{{- $book := index .Site.Data.files (.Get 0)}}
+{{- $altname := .Get 1 -}}
+
+{{- with $book -}}
+<a href="{{- $book.url -}}">
+    {{- with $altname -}}
+    {{- $altname -}}
+    {{- else -}}
+    {{- $book.filename }} ({{ $book.size_str -}})
+    {{- end -}}
+</a>
+{{- else -}}
+{{ errorf "Couldn't get Canvas File (cfile) `%s`" (.Get 0) }}
+{{- end }}
