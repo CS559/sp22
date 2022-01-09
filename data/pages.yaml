@@ -12,9 +12,15 @@
 
 
 ## links to canvas - these were set for 2022
+canvas:
+  name: "Canvas"
+  url: https://canvas.wisc.edu/courses/293042
 canvas-files:
   name: "Canvas Files"
   url: https://canvas.wisc.edu/courses/293042/files
+piazza:
+  name: "Piazza"
+  url: https://piazza.com/class/ky3ttm1xndz5h2
 
 ## Books in Canvas - unfortunately, can't do this with the file list
 fcg-canvas:
