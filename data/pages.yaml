@@ -9,3 +9,37 @@
 #   page (this DB) things on the external web that we expect to be permanent
 #   cweb - things on the course web that workbooks refer to
 #   cfile - canvas files (auto generated db)
+
+
+## links to canvas - these were set for 2022
+canvas-files:
+  name: "Canvas Files"
+  url: https://canvas.wisc.edu/courses/293042/files
+
+## Books in Canvas - unfortunately, can't do this with the file list
+fcg-canvas:
+  name: "Fundamentals of Computer Graphics (Canvas Folder)"
+  url: https://canvas.wisc.edu/courses/293042/files/folder/FundamentalsOfComputerGraphics
+rtr-canvas:
+  name: "Real-Time Rendering (Canvas Folder)"
+  url: https://canvas.wisc.edu/courses/293042/files/folder/Real-Time-Rendering
+hart-canvas:
+  url: https://canvas.wisc.edu/courses/293042/files/folder/Hart%20Book
+  name: "Big Fun Book of Computer Graphics, Hart's Draft (Canvas Folder)"
+
+# Books via Amazon
+fcg-amazon:
+  name: "Fundamentals of Computer Graphics 5e (purchase via Amazon)"
+  url: https://amzn.to/3GcJd5H
+rtr-amazon:
+  url: https://amzn.to/3zEgap7
+
+# Books via library
+fcg-proquest:
+  name: "Fundamentals of Computer Graphics 4e (official access at ProQuest)"
+  url: https://ebookcentral.proquest.com/lib/wisc/detail.action?docID=4710787
+rtr-proquest:
+  name: "Real-Time Rendering 4e (official access at ProQuest)"
+  utl: https://ebookcentral.proquest.com/lib/WISC/detail.action?docID=5474527
+
+
