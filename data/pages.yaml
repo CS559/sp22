@@ -48,4 +48,10 @@ rtr-proquest:
   name: "Real-Time Rendering 4e (official access at ProQuest)"
   utl: https://ebookcentral.proquest.com/lib/WISC/detail.action?docID=5474527
 
-
+# Mozilla SVG resources
+mozilla-vector:
+  name: "Mozilla (Official) Vector Graphics"
+  url: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
+mozilla-svg:
+  name: "Mozilla SVG Tutorial"
+  url: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
