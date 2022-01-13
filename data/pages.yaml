@@ -119,3 +119,85 @@ mozilla-svg:
   name: "Mozilla SVG Tutorial"
   url: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 
+# CS559 Tutorials Past
+color:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/tutorials/color/ #TODO: CHECK THIS LINK
+  name: "CS559 Color Tutorial"
+
+# Course Web (Spring 2022)
+tools:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/559tools/ #TODO: CHECK THIS LINK
+  name: "Tools for 559"
+  checked: 1/20/21
+typed-js:
+  name: "Typed JavaScript and CS559"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/typed-js/ #TODO: CHECK THIS LINK
+  checked: 1/20/21
+javascript:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/javascript559/ #TODO: CHECK THIS LINK
+  name: "Javascript in CS559"
+  checked: 1/20/21
+workbooks:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/workbooks/ #TODO: CHECK THIS LINK
+  name: Workbooks
+  checked: 1/20/21
+tools:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/559tools/ #TODO: CHECK THIS LINK
+  name: "Tools for 559"
+  checked: 1/20/21
+getting-started:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/getting-started/ #TODO: CHECK THIS LINK
+  name: "Getting Started"
+  checked: 1/20/21
+git:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/git559/ #TODO: CHECK THIS LINK
+  name: "Git and GitHub in CS559"
+  checked: 1/20/21
+vscode:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/vscode559/ #TODO: CHECK THIS LINK
+  name: "Visual Studio Code (VSCode) for CS559"
+  checked: 1/20/21
+course-web:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/ #TODO: CHECK THIS LINK
+  name: "Course Web"
+  checked: 1/20/21
+
+# Web tutorials and references
+request-animation-frame:
+  name: "Official RequestAnimationFrame Docs"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
+mozilla-script-tag:
+  name: "Office Script Tag Documentation"
+  url: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
+learning-html:
+  url: https://developer.mozilla.org/en-US/docs/Learn/HTML
+  name: "Mozilla HTML Learning Guide"
+getting-started-html:
+  url: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+  name: "Mozilla Getting Started with HTML"
+mozilla-css:
+  name: "Mozilla Tutorial on CSS"
+  url: https://developer.mozilla.org/en-US/docs/Learn/CSS
+w3schools-defer:
+  name: "W3 Schools documentation on defer"
+  url: https://www.w3schools.com/tags/att_script_defer.asp
+template-literals:
+  name: "Template Literals Documentation"
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+closure-tutorial:
+  url: https://placeholder.todo #TODO: FILL IN THIS LINK
+  name: "Closure Tutorial"
+  checked: n/a
+debug-tutorial-1:
+  url: https://placeholder.todo #TODO: FILL IN THIS LINK
+  name: "Debugger Tutorial #1"
+  checked: n/a
+debug-tutorial-2:
+  url: https://placeholder.todo #TODO: FILL IN THIS LINK
+  name: "Debugger Tutorial #2"
+  checked: n/a
+
+# general stuff
+hugo:
+  url: https://gohugo.io/
+  name: "Hugo"

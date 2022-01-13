@@ -52,8 +52,10 @@ points = [
     { points = 40, page = "none", box = "none", desc = "correctly turning something in (committing changes and pushing it back to GitHub)"},
     { points = 10, page = "none", box = "none", desc = "did handin quiz"},
     { points = 2, page = 1, box = "01-01-01", desc = "change web page text"},
+    { points = 2, page = 2, box = "01-02-08", desc = "make a red button with your name in it"},
     { points = 2, page = 3, box = "01-03-02", desc = "change text on button press"},
     { points = 2, page = 4, box = "01-04-07", desc = "add a javascript file that says something"},
+    { points = 2, page = 5, box = "01-05-04b", desc = "change slider speed to half"},    
     { points = 2, page = 6, box = "01-06-01", desc = "making 3 sliders"},
     { points = 3, page = 6, box = "01-06-01", desc = "making slider3 be slider2-slider1 (and update when either slider2 or slider1 is moved)"},
     { points = 3, page = 6, box = "01-06-01", desc = "adjusting slider1 and slider2 when slider3 moves"},
@@ -61,19 +63,15 @@ points = [
     { points = 2, page = 6, box = "01-06-02", desc = "making the slider move (continuously) when start is pressed"},
     { points = 2, page = 6, box = "01-06-02", desc = "making the slider stop when the stop button is pressed"},
     { points = 2, page = 6, box = "01-06-02", desc = "making the slider starting again when the start button is pressed (after being stopped)"},
+    { points = 2, page = 6, box = "01-06-03", desc = "correct use of time delta"},  
     { points = 2, page = 6, box = "01-06-03", desc = "slider goes forward"},
     { points = 2, page = 6, box = "01-06-03", desc = "slider goes backward"},
     { points = 3, page = 6, box = "01-06-03", desc = "slider goes back and forth"},
+    { points = 2, page = 6, box = "01-06-04", desc = "correct use of time delta"},    
     { points = 3, page = 6, box = "01-06-04", desc = "fade between colors"},
     { points = 3, page = 6, box = "01-06-04", desc = "colors transition in both directions (red->white, white->red - or others)"}
 ]
 # note: if there are no bonus points, it should be OK to skip it
-bonus = [
-    { points = 3, page = 6, box = "01-06-04", desc = "transition between multiple colors"}
-]
-future = [
-    "points for correctly using time stamps in fading and slider motion 6-3 and 6-4"
-]
 
 ######################################################################
 [[workbook]] # Workbook 2
@@ -96,7 +94,7 @@ points = [
     { points = 5, page = 4, box = "02-04-02", desc = "shapes that aren't rectangles"},
     { points = 5, page = 4, box = "02-04-02", desc = "transparency (must be obvious from looking at the picture)"},
     # Canvas display lists
-     { points = 5, page = 7, box = "02-07-01", desc = "making circles appear when the mouse is clicked"},
+    { points = 5, page = 7, box = "02-07-01", desc = "making circles appear when the mouse is clicked"},
     { points = 4, page = 7, box = "02-07-01", desc = "having the circles change color when the mouse is over them"},
     { points = 4, page = 7, box = "02-07-01", desc = "having the circles change their color back when the mouse leaves them"},
     # fireworks
