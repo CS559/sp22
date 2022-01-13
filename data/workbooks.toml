@@ -237,14 +237,11 @@ points = [
     { points = 4, page = 1, box = "05-01-02", desc = "implement the correct tangent vector for the parabola"},
     { points = 4, page = 3, box = "05-03-01", desc = "cubic coefficients question"},
     { points = 2, page = 4, box = "05-04-01", desc = "evaluate Hermite"},
-
     { points = 9, page = 7, box = "05-07-03", desc = "divide the Bezier curve"},
-
     { points = 5,  page = 9, box = "05-09-01", desc = "recreated the picture using canvas"},
     { points = 5,  page = 9, box = "05-09-01", desc = "didn't use quadratic commands"},
     { points = 10, page = 9, box = "05-09-02", desc = "draw a picture that demonstrate the use of bezierCurveTo in Canvas"},
     { points = 4,  page = 9, box = "05-09-02", desc = "explained where there is G(1) continuity"},
-
     { points = 10, page = 10, box = "05-10-03", desc = "make the green dot go around the triangle with arc-length parameterization"},
     { points = 10, page = 11, box = "05-11-01", desc = "draw the spiral"},
     { points = 3,  page = 11, box = "05-11-01", desc = "checkbox control of lines"},
@@ -273,7 +270,6 @@ learninggoals = [
 points = [
     { points = 10, page = 1, box = "06-01-01", desc = "Make a cardinal spline through the points"},
     { points = 10, page = 1, box = "06-01-02", desc = "Split the Bezier"},
-
     { points = 15, page = 3, box = "06-03-01", desc = "Drawing the track as a simple curve (cardinal spline) that interpolates the control points"},
     { points = 15, page = 3, box = "06-03-01", desc = "Train goes around the track"},
     { points = 10, page = 3, box = "06-03-01", desc = "The interface still works (the track can be moved and the run slider works, even while the train is in motion)"},
@@ -314,17 +310,14 @@ points = [
     { points = 2, page = 2, box="07-02-02", desc = "move the yellow cube"},
     { points = 10, page = 4, box = "07-04-03", desc = "stacking the boxes as described"},
     { points = 5, page = 5, box = "07-05-03", desc = "add lights to scene so that sides of the cubes appear in different colors"},
-
     # Spheres 10
     { points = 10, page = 6, box = "07-06-01", desc = "give each sphere a different, non-white material (1pt each, 1 pt for all different)"},
-
     # Snowman 30
     { points = 8, page = 8, box = "07-08-01", desc = "Visible Objects (requires lights, camera, at least some shapes)"},
     { points = 3, page = 8, box = "07-08-01", desc = "Different materials used (everything isn't the same color"},
     { points = 3, page = 8, box = "07-08-01", desc = "There is a ground, Snowman on ground"},
     { points = 8, page = 8, box = "07-08-01", desc = "Snowman Body as 3 stacked spheres"},
     { points = 8, page = 8, box = "07-08-01", desc = "Snowman Face (eyes, nose, mouth"},
-
     # Museum 24
     { points = 4,  page = 9, box = "07-09-01", desc = "Museum cameras work (1 pt per camera)"},
     { points = 6,  page = 9, box = "07-09-01", desc = "Museum objects correctly placed (2 pt per new object)"},

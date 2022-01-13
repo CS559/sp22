@@ -5,11 +5,62 @@
 # it got crazy unweildy very quickly
 #
 # this year, we'll divide things up...
-# we'll have a different shortcode - for different things
+# we'll have a different shortcode - for different things (I didn't do this yet)
 #   page (this DB) things on the external web that we expect to be permanent
 #   cweb - things on the course web that workbooks refer to
 #   cfile - canvas files (auto generated db)
 
+## Forms for 2022
+regrade-form:
+  name: "Regrade Form"
+  url: "PLEASE ADD"
+appointment-scheduling-form:
+  name: "Appointment Scheduling Form"
+  url: "PLEASE ADD"
+consulting-assistance-form:
+  name: "Consulting Assistance Form"
+  url: "PLEASE ADD"
+
+## Class pages
+gleicher-home:
+  name: "Gleicher's Home Page"
+  url: https://gleicher.sites.cs.wisc.edu/
+
+## Links to Last Year's Class (generally should be avoided)
+outline-2021:
+  name: "2021 Course Outline with Video Links"
+  url: https://pages.graphics.cs.wisc.edu/559-sp21/pages/lecture-materials/
+
+## Class Videos
+video-git-a:
+  name: "Git-Part-A - what it looks like to do a workbook"
+  url: https://mediaspace.wisc.edu/media/Git2021A+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+A+/1_ovi963q3)
+video-git-b:
+  name: "Git-Part-B - Basics of Git and GitHub Classroom"
+  url: https://mediaspace.wisc.edu/media/Git2021B+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+B/1_yel4ct2z
+
+## UW Resources
+uw-tech-requirements:
+  url: https://it.wisc.edu/learn/guides/learning-online-technology-tips-tools/
+  name: "UW Technology Requirements for Students"
+uw-internet-doctor:
+  url: https://it.wisc.edu/news/home-internet-connection-doctor-service/
+  name: "UW Internet Connection Doctor"
+
+## references for academic conduct
+uw-academic-conduct:
+  url: https://conduct.students.wisc.edu/misconduct/academic-integrity/
+  name: "UW Definition of Academic Misconduct"
+comm-arts-academic-conduct:
+  url: https://commarts.wisc.edu/graduate/graduate-handbook/professional-conduct-and-academic-integrity/
+  name: "Professional Conduct and Academic Integrity (Department of Communication Arts)"
+uw-academic-conduct-syllabus-statement:
+  url: https://conduct.students.wisc.edu/syllabus-statement/
+  name: "UW Recommended Syllabus Statement"
+
+writing-learning-outcomes:
+  url: https://assessment.provost.wisc.edu/student-learning-outcomes/writing-student-learning-outcomes/ 
+  name: "Writing Learning Outcomes (UW Provost's Office)"
 
 ## links to canvas - these were set for 2022
 canvas:
@@ -18,9 +69,21 @@ canvas:
 canvas-files:
   name: "Canvas Files"
   url: https://canvas.wisc.edu/courses/293042/files
-piazza:
+piazza-direct:
   name: "Piazza"
   url: https://piazza.com/class/ky3ttm1xndz5h2
+piazza:
+  name: "Piazza"
+  url: https://canvas.wisc.edu/courses/293042/external_tools/65
+canvas-zoom:
+  name: "Canvas Zoom List"
+  url: https://canvas.wisc.edu/courses/123974/external_tools/14064
+canvas-calendar:
+  name: "Canvas Calendar (no Zoom?)"
+  url: https://canvas.wisc.edu/calendar?include_contexts=course_293042
+canvas-summary:
+  name: "Canvas Summary (calendar list)"
+  url: https://canvas.wisc.edu/courses/293042/external_tools/5326
 
 ## Books in Canvas - unfortunately, can't do this with the file list
 fcg-canvas:
@@ -55,3 +118,4 @@ mozilla-vector:
 mozilla-svg:
   name: "Mozilla SVG Tutorial"
   url: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+
