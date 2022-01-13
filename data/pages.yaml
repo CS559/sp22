@@ -121,46 +121,42 @@ mozilla-svg:
 
 # CS559 Tutorials Past
 color:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/tutorials/color/ #TODO: CHECK THIS LINK
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/color/
   name: "CS559 Color Tutorial"
 
 # Course Web (Spring 2022)
 tools:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/559tools/ #TODO: CHECK THIS LINK
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/559tools/
   name: "Tools for 559"
-  checked: 1/20/21
+  checked: 1/13/22
 typed-js:
   name: "Typed JavaScript and CS559"
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/typed-js/ #TODO: CHECK THIS LINK
-  checked: 1/20/21
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/typed-js/
+  checked: 1/13/22
 javascript:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/javascript559/ #TODO: CHECK THIS LINK
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/javascript559/
   name: "Javascript in CS559"
-  checked: 1/20/21
+  checked: 1/13/22
 workbooks:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/workbooks/ #TODO: CHECK THIS LINK
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/workbooks/
   name: Workbooks
-  checked: 1/20/21
-tools:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/559tools/ #TODO: CHECK THIS LINK
-  name: "Tools for 559"
-  checked: 1/20/21
+  checked: 1/13/22
 getting-started:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/getting-started/ #TODO: CHECK THIS LINK
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/posts/getting-started/
   name: "Getting Started"
-  checked: 1/20/21
+  checked: 1/13/22
 git:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/git559/ #TODO: CHECK THIS LINK
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/git559/
   name: "Git and GitHub in CS559"
-  checked: 1/20/21
+  checked: 1/13/22
 vscode:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/pages/vscode559/ #TODO: CHECK THIS LINK
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/vscode559/
   name: "Visual Studio Code (VSCode) for CS559"
-  checked: 1/20/21
+  checked: 1/13/22
 course-web:
-  url: https://graphics.cs.wisc.edu/Courses/559-sp2022/ #TODO: CHECK THIS LINK
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/
   name: "Course Web"
-  checked: 1/20/21
+  checked: 1/13/22
 
 # Web tutorials and references
 request-animation-frame:
