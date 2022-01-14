@@ -38,6 +38,9 @@ video-git-a:
 video-git-b:
   name: "Git-Part-B - Basics of Git and GitHub Classroom"
   url: https://mediaspace.wisc.edu/media/Git2021B+-+CS559+GitHub+++GitHub+Classroom+Tutorial+-+Part+B/1_yel4ct2z
+video-debugger:
+  name: "Chrome Debugger Quick Start for CS 559 (2019 Video)"
+  url: https://mediaspace.wisc.edu/media/Chrome+Debugger+Quick+Start+for+CS+559+%282019%29/1_77oepxqr
 
 ## UW Resources
 uw-tech-requirements:
