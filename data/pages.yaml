@@ -183,18 +183,14 @@ w3schools-defer:
 template-literals:
   name: "Template Literals Documentation"
   url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-closure-tutorial:
-  url: https://placeholder.todo #TODO: FILL IN THIS LINK
+closure-tutorial-video:
+  url: https://mediaspace.wisc.edu/media/Lecture%2002%3A%2001_28_2021%20Bonus%20video%3A%20Closures/1_6e7qmca0
   name: "Closure Tutorial"
-  checked: n/a
-debug-tutorial-1:
-  url: https://placeholder.todo #TODO: FILL IN THIS LINK
+  checked: 1/17/22
+debug-tutorial:
+  url: https://github.com/CS559/DebuggerTutorial
   name: "Debugger Tutorial #1"
-  checked: n/a
-debug-tutorial-2:
-  url: https://placeholder.todo #TODO: FILL IN THIS LINK
-  name: "Debugger Tutorial #2"
-  checked: n/a
+  checked: 1/17/22
 
 # general stuff
 hugo:
