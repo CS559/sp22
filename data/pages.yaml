@@ -153,6 +153,16 @@ svg5:
 svg6:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg6/
   name: "CS559 SVG Tutorial Part 6: Paths and Beziers"
+svg-tutorial:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/
+  name: "CS559 SVG Tutorial"
+
+2015-quadcopter-assignment:
+  url: http://graphics.cs.wisc.edu/WP/cs559-fall2015/2015/09/03/programming-assignment-2/
+  name: "2015 Quadcopter Assignment"
+2015-quadcopter-example:
+  url: http://graphics.cs.wisc.edu/Courses/559-f2015/Examples/QuadCopter/quad.html
+  name: "2015 Quadcopter Example"
 
 # Course Web (Spring 2022)
 tools:
@@ -187,6 +197,10 @@ course-web:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/
   name: "Course Web"
   checked: 1/13/22
+books:
+  name: "Books Page"
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/books/
+  checked: 1/17/22
 
 # Web tutorials and references
 request-animation-frame:
@@ -227,6 +241,9 @@ marinacci-canvas:
 marinacci-canvas-ch01:
   url: https://joshondesign.com/p/books/canvasdeepdive/chapter01.html
   name: "first chapter"
+transform-demos:
+  name: "2D Transform Demos"
+  url: https://cs559.github.io/2DTransformDemos/
 
 mozilla-canvas:
   name: "Mozilla (Official) Canvas Tutorial (top level)"
@@ -267,8 +284,9 @@ mozilla-typed-array:
 hugo:
   url: https://gohugo.io/
   name: "Hugo"
-
-# PLA library search
 pla_library:
   url: https://search.library.wisc.edu/catalog/9911163667202121
   name: "Practical Linear Algebra at the UW Library"
+understanding-es6-ch13:
+  url: https://github.com/nzakas/understandinges6/blob/master/manuscript/13-Modules.md
+  name: "this chapter in Understanding ES6"
