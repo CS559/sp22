@@ -126,6 +126,33 @@ mozilla-svg:
 color:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/color/
   name: "CS559 Color Tutorial"
+points-vectors:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/points-vectors/
+  name: "CS559 Tutorial: Points, Vectors, Coordinate Systems"
+raster-vector:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/images-vs-objects/
+  name: "CS559 Tutorial: Image-Based vs. Object-Based Graphics"
+what-is-pixel:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/pixels/
+  name: "CS559 Tutorial: What is a Pixel"
+svg1:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg1/
+  name: "CS559 SVG Tutorial Part 1: Getting Started with SVG"
+svg2:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg2/
+  name: "CS559 SVG Tutorial Part 2: Coordinate Systems"
+svg3:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg3/
+  name: "CS559 SVG Tutorial Part 3: Manipulating Primitives"
+svg4:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg4/
+  name: "CS559 SVG Tutorial Part 4: Groups, Transformations, Re-Use and Hierarchies"
+svg5:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg5/
+  name: "CS559 SVG Tutorial Part 5: Transformations and Composition"
+svg6:
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/svg6/
+  name: "CS559 SVG Tutorial Part 6: Paths and Beziers"
 
 # Course Web (Spring 2022)
 tools:
@@ -191,8 +218,57 @@ debug-tutorial:
   url: https://github.com/CS559/DebuggerTutorial
   name: "Debugger Tutorial #1"
   checked: 1/17/22
+canvas-cheat-sheet:
+  url: https://simon.html5.org/dump/html5-canvas-cheat-sheet.html
+  name: "Canvas Cheat Sheet: "
+marinacci-canvas:
+  url: https://joshondesign.com/p/books/canvasdeepdive/title.html
+  name: "HTML Canvas Deep Dive: "
+marinacci-canvas-ch01:
+  url: https://joshondesign.com/p/books/canvasdeepdive/chapter01.html
+  name: "first chapter"
+
+mozilla-canvas:
+  name: "Mozilla (Official) Canvas Tutorial (top level)"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
+mozilla-canvas-basic:
+  name: "Mozilla (Official) Canvas Tutorial: Getting Started"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
+mozilla-canvas-shapes:
+  name: "Mozilla (Official) Canvas Tutorial: Drawing Shapes"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+mozilla-canvas-styles:
+  name: "Mozilla (Official) Canvas Tutorial: Styles"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
+mozilla-canvas-current-transform:
+  name: "Canvas Current Transform"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/currentTransform
+mozilla-canvas-transform:
+  name: "Canvas Transform"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/transform
+mozilla-canvas-set-transform:
+  name: "Canvas Set Transform"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setTransform
+mozilla-canvas-api:
+  name: "Mozilla (Official) Canvas API Documentation"
+  url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+mozilla-vector:
+  name: "Mozilla (Official) Vector Graphics"
+  url: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
+mozilla-svg:
+  name: "Mozilla SVG Tutorial"
+  url: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+mozilla-typed-array:
+  name: "TypedArray objects"
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+
 
 # general stuff
 hugo:
   url: https://gohugo.io/
   name: "Hugo"
+
+# PLA library search
+pla_library:
+  url: https://search.library.wisc.edu/catalog/9911163667202121
+  name: "Practical Linear Algebra at the UW Library"
