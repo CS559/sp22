@@ -201,6 +201,10 @@ books:
   name: "Books Page"
   url: https://pages.graphics.cs.wisc.edu/559-sp22/pages/books/
   checked: 1/17/22
+traditional-oop-js:
+  name: "Traditional Object Oriented Programming in JavaScript"
+  url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/oop-in-js-1/
+  checked: 1/17/22
 
 # Web tutorials and references
 request-animation-frame:
@@ -245,6 +249,32 @@ transform-demos:
   name: "2D Transform Demos"
   url: https://cs559.github.io/2DTransformDemos/
 
+2008-boids-example:
+  url: https://pages.cs.wisc.edu/~gleicher/OldHacks/2008Boids/ #TODO this doesn't work - find another example or ask Gleicher to fix this?
+  name: "2008 Boids Example"
+2012-games-project:
+  url: http://graphics.cs.wisc.edu/WP/games12/2012/09/06/project-1-an-in-browser-game-with-flocking/
+  name: "2012 Games Class Projects"
+ian-irene-games-project:
+  url: http://graphics.cs.wisc.edu/Courses/Games10/proj1/RaeShei/
+  name: "Ian and Irene's Asteroids Game"
+jeff-chris-games-project:
+  url: http://graphics.cs.wisc.edu/Courses/Games10/proj1/HugoMills/
+  name: "Jeff and Chris' Sheep Herder Game"
+
+craig-reynolds:
+  name: "Craig Reynolds"
+  url: http://www.red3d.com/cwr/
+craig-reynolds-flocking-paper:
+  name: "Craig Reynolds Flocking Paper"
+  url: https://dl.acm.org/citation.cfm?id=37406
+craig-reynolds-boids-page:
+  name: "Craig Reynolds Boids Page"
+  url: http://www.red3d.com/cwr/boids/
+craig-reynolds-steering-behavior:
+  name: "Craig Reynolds Steering Behavior"
+  url: http://www.red3d.com/cwr/steer/gdc99/
+
 mozilla-canvas:
   name: "Mozilla (Official) Canvas Tutorial (top level)"
   url: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
@@ -278,7 +308,9 @@ mozilla-svg:
 mozilla-typed-array:
   name: "TypedArray objects"
   url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
-
+mozilla-atan2:
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2
+  name: "Mozilla `atan2` documentation"
 
 # general stuff
 hugo:
