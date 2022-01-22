@@ -49,8 +49,7 @@ learninggoals = [
     "Understand how to control timing with browser animation loops"
 ]
 points = [
-    { points = 40, page = "none", box = "none", desc = "correctly turning something in (committing changes and pushing it back to GitHub)"},
-    { points = 10, page = "none", box = "none", desc = "did handin quiz"},
+    { points = 40, page = "none", box = "none", desc = "for the handin survey (generally, you get the points for doing it)"},
     { points = 2, page = 1, box = "01-01-01", desc = "change web page text"},
     { points = 2, page = 2, box = "01-02-08", desc = "make a red button with your name in it"},
     { points = 2, page = 3, box = "01-03-02", desc = "change text on button press"},

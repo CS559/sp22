@@ -1,0 +1,232 @@
+end-of-week-survey-01:
+  due: 2022-01-28 23:59:00-06:00
+  due_string: Fri, Jan 28
+  lock: 2022-02-06 23:59:00-06:00
+  lock_string: Sun, Feb 6
+  name: End of Week Survey 01
+  shortname: End of Week Survey 01
+  url: https://canvas.wisc.edu/courses/293042/assignments/1448840
+end-of-week-survey-02:
+  due: 2022-02-04 23:59:59-06:00
+  due_string: Fri, Feb 4
+  lock: 2022-02-06 23:59:00-06:00
+  lock_string: Sun, Feb 6
+  name: End of Week Survey 02
+  shortname: End of Week Survey 02
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450789
+end-of-week-survey-03:
+  due: 2022-02-11 23:59:59-06:00
+  due_string: Fri, Feb 11
+  lock: 2022-02-13 23:59:59-06:00
+  lock_string: Sun, Feb 13
+  name: End of Week Survey 03
+  shortname: End of Week Survey 03
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450791
+end-of-week-survey-04:
+  due: 2022-02-18 23:59:59-06:00
+  due_string: Fri, Feb 18
+  lock: 2022-02-20 23:59:59-06:00
+  lock_string: Sun, Feb 20
+  name: End of Week Survey 04
+  shortname: End of Week Survey 04
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450792
+end-of-week-survey-05:
+  due: 2022-02-25 23:59:59-06:00
+  due_string: Fri, Feb 25
+  lock: 2022-02-27 23:59:00-06:00
+  lock_string: Sun, Feb 27
+  name: End of Week Survey 05
+  shortname: End of Week Survey 05
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450842
+end-of-week-survey-06:
+  due: 2022-03-04 23:59:59-06:00
+  due_string: Fri, Mar 4
+  lock: 2022-03-06 23:59:59-06:00
+  lock_string: Sun, Mar 6
+  name: End of Week Survey 06
+  shortname: End of Week Survey 06
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450843
+end-of-week-survey-07:
+  due: 2022-03-11 23:59:59-06:00
+  due_string: Fri, Mar 11
+  lock: 2022-03-12 23:00:00-06:00
+  lock_string: Sat, Mar 12
+  name: End of Week Survey 07
+  shortname: End of Week Survey 07
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450845
+end-of-week-survey-08:
+  due: 2022-03-25 23:59:59-05:00
+  due_string: Fri, Mar 25
+  lock: 2022-03-27 23:59:59-05:00
+  lock_string: Sun, Mar 27
+  name: End of Week Survey 08
+  shortname: End of Week Survey 08
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450846
+end-of-week-survey-09:
+  due: 2022-04-01 23:59:59-05:00
+  due_string: Fri, Apr 1
+  lock: 2022-04-03 23:59:59-05:00
+  lock_string: Sun, Apr 3
+  name: End of Week Survey 09
+  shortname: End of Week Survey 09
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450847
+end-of-week-survey-10:
+  due: 2022-04-08 23:59:59-05:00
+  due_string: Fri, Apr 8
+  lock: 2022-04-10 23:59:59-05:00
+  lock_string: Sun, Apr 10
+  name: End of Week Survey 10
+  shortname: End of Week Survey 10
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450848
+end-of-week-survey-11:
+  due: 2022-04-15 23:59:59-05:00
+  due_string: Fri, Apr 15
+  lock: 2022-04-17 23:59:59-05:00
+  lock_string: Sun, Apr 17
+  name: End of Week Survey 11
+  shortname: End of Week Survey 11
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450849
+end-of-week-survey-12:
+  due: 2022-04-22 23:59:59-05:00
+  due_string: Fri, Apr 22
+  lock: 2022-04-24 23:59:59-05:00
+  lock_string: Sun, Apr 24
+  name: End of Week Survey 12
+  shortname: End of Week Survey 12
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450850
+end-of-week-survey-13:
+  due: 2022-04-29 23:59:59-05:00
+  due_string: Fri, Apr 29
+  lock: 2022-05-01 23:59:59-05:00
+  lock_string: Sun, May 1
+  name: End of Week Survey 13
+  shortname: End of Week Survey 13
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450851
+end-of-week-survey-14:
+  due: 2022-05-06 23:59:59-05:00
+  due_string: Fri, May 6
+  lock: 2022-05-08 23:59:59-05:00
+  lock_string: Sun, May 8
+  name: End of Week Survey 14
+  shortname: End of Week Survey 14
+  url: https://canvas.wisc.edu/courses/293042/assignments/1450852
+exam-1-part-a:
+  due: 2022-03-09 21:00:00-06:00
+  due_string: Wed, Mar 9
+  lock: 2022-03-09 21:00:00-06:00
+  lock_string: Wed, Mar 9
+  name: Exam 1 - Part A
+  shortname: Exam 1 - Part A
+  url: https://canvas.wisc.edu/courses/293042/assignments/1448756
+exam-2-part-a:
+  due: 2022-04-27 21:00:00-05:00
+  due_string: Wed, Apr 27
+  lock: 2022-04-27 21:00:00-05:00
+  lock_string: Wed, Apr 27
+  name: Exam 2 - Part A
+  shortname: Exam 2 - Part A
+  url: https://canvas.wisc.edu/courses/293042/assignments/1448798
+exam-3-part-a:
+  due: 2022-05-11 21:30:00-05:00
+  due_string: Wed, May 11
+  lock: 2022-05-11 21:30:00-05:00
+  lock_string: Wed, May 11
+  name: Exam 3 - Part A
+  shortname: Exam 3 - Part A
+  url: https://canvas.wisc.edu/courses/293042/assignments/1448802
+final-project-handin:
+  due: &id001 2022-05-05 23:59:59-05:00
+  due_string: Thu, May 5
+  lock: *id001
+  lock_string: Thu, May 5
+  name: Final Project Handin
+  shortname: Final Project Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1448851
+workbook-1-handin:
+  due: &id002 2022-01-31 23:59:00-06:00
+  due_string: Mon, Jan 31
+  lock: *id002
+  lock_string: Mon, Jan 31
+  name: Workbook 1 Handin
+  shortname: Workbook 1 Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1448849
+workbook-10-handin:
+  due: &id003 2022-04-11 23:59:59-05:00
+  due_string: Mon, Apr 11
+  lock: *id003
+  lock_string: Mon, Apr 11
+  name: Workbook 10 Handin
+  shortname: Workbook 10 Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1460200
+workbook-11-handin:
+  due: &id004 2022-04-18 23:59:59-05:00
+  due_string: Mon, Apr 18
+  lock: *id004
+  lock_string: Mon, Apr 18
+  name: Workbook 11 Handin
+  shortname: Workbook 11 Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1460392
+workbook-2-handin:
+  due: &id005 2022-02-07 23:59:59-06:00
+  due_string: Mon, Feb 7
+  lock: *id005
+  lock_string: Mon, Feb 7
+  name: Workbook 2 Handin
+  shortname: Workbook 2 Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1460114
+workbook-3-handin:
+  due: &id006 2022-02-14 23:59:59-06:00
+  due_string: Mon, Feb 14
+  lock: *id006
+  lock_string: Mon, Feb 14
+  name: Workbook 3 Handin
+  shortname: Workbook 3 Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1460118
+workbook-4-handin:
+  due: &id007 2022-02-21 23:59:59-06:00
+  due_string: Mon, Feb 21
+  lock: *id007
+  lock_string: Mon, Feb 21
+  name: Workbook 4 Handin
+  shortname: Workbook 4 Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1460120
+workbook-5-handin:
+  due: &id008 2022-02-28 23:59:59-06:00
+  due_string: Mon, Feb 28
+  lock: *id008
+  lock_string: Mon, Feb 28
+  name: Workbook 5 Handin
+  shortname: Workbook 5 Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1460125
+workbook-6-handin:
+  due: &id009 2022-03-07 23:59:59-06:00
+  due_string: Mon, Mar 7
+  lock: *id009
+  lock_string: Mon, Mar 7
+  name: Workbook 6 Handin
+  shortname: Workbook 6 Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1460133
+workbook-7-handin:
+  due: &id010 2022-03-21 23:59:59-05:00
+  due_string: Mon, Mar 21
+  lock: *id010
+  lock_string: Mon, Mar 21
+  name: Workbook 7 Handin
+  shortname: Workbook 7 Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1460135
+workbook-8-handin:
+  due: &id011 2022-03-28 23:59:59-05:00
+  due_string: Mon, Mar 28
+  lock: *id011
+  lock_string: Mon, Mar 28
+  name: Workbook 8 Handin
+  shortname: Workbook 8 Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1460138
+workbook-9-handin:
+  due: &id012 2022-04-04 23:59:59-05:00
+  due_string: Mon, Apr 4
+  lock: *id012
+  lock_string: Mon, Apr 4
+  name: Workbook 9 Handin
+  shortname: Workbook 9 Handin
+  url: https://canvas.wisc.edu/courses/293042/assignments/1460161

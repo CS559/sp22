@@ -1,0 +1,14 @@
+{{- $assign := index .Site.Data.assigns (.Get 0)}}
+{{- $altname := .Get 1 -}}
+
+{{- with $assign -}}
+<a href="{{- $assign.url -}}">
+    {{- with $altname -}}
+    {{- $altname -}}
+    {{- else -}}
+    {{- $assign.name }} (due {{ $assign.due_string -}})
+    {{- end -}}
+</a>
+{{- else -}}
+{{ errorf "Couldn't get Canvas Assignment (cassign) `%s`" (.Get 0) }}
+{{- end }}
