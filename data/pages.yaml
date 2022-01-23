@@ -20,6 +20,9 @@ appointment-scheduling-form:
 consulting-assistance-form:
   name: "Consulting Assistance Form"
   url: "https://forms.gle/WgpVMHX82V3T5H8w6"
+very-late-form:
+  name: "Very Late Workbook Form"
+  url: "https://forms.gle/rzqSzqVqrgoN5FZh6"
 
 ## Class pages
 gleicher-home:
