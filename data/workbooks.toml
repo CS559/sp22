@@ -106,7 +106,6 @@ points = [
     { points = 2, page = 7, box = "02-07-02", desc = "fireworks are different colors"},
 ]
 bonus = [
-    { points = 2, page = 4, box = "02-04-02", desc = "artistic merit points for a cool picture (grader's discretion)"},
     { points = 1, page = 7, box = "02-07-01", desc = "having the circle change color when clicked (bonus points), with the hover behavior still working"},
     # fireworks
     { points = 2, page = 7, box = "02-07-02", desc = "explosions fade out (or disappear) after a distance"},
