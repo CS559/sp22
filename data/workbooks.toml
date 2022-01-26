@@ -87,31 +87,31 @@ learninggoals = [
     "To practice with reading and writing JavaScript programs with actual **graphics programs**"
 ]
 points = [
-    { points = 20, page = "none", box= "none", desc = "correctly turning in an assignment with the survey"},
-    { points = 20, page = 4, box = "02-04-01", desc = "3 pts for each of 4 shapes"},
-    { points = 5, page = 4, box = "02-04-02", desc = "making a picture"},
-    { points = 5, page = 4, box = "02-04-02", desc = "shapes that aren't rectangles"},
-    { points = 5, page = 4, box = "02-04-02", desc = "transparency (must be obvious from looking at the picture)"},
+    { points = 40, page = "none", box= "none", desc = "correctly turning in an assignment with the survey"},
+    { points = 8, page = 4, box = "02-04-01", desc = "2 pts for each of 4 shapes"},
+    { points = 4, page = 4, box = "02-04-02", desc = "making a picture"},
+    { points = 3, page = 4, box = "02-04-02", desc = "shapes that aren't rectangles"},
+    { points = 3, page = 4, box = "02-04-02", desc = "transparency (must be obvious from looking at the picture)"},
     # Canvas display lists
-    { points = 5, page = 7, box = "02-07-01", desc = "making circles appear when the mouse is clicked"},
-    { points = 4, page = 7, box = "02-07-01", desc = "having the circles change color when the mouse is over them"},
-    { points = 4, page = 7, box = "02-07-01", desc = "having the circles change their color back when the mouse leaves them"},
+    { points = 4, page = 7, box = "02-07-01", desc = "making circles appear when the mouse is clicked"},
+    { points = 3, page = 7, box = "02-07-01", desc = "having the circles change color when the mouse is over them"},
+    { points = 3, page = 7, box = "02-07-01", desc = "having the circles change their color back when the mouse leaves them"},
     # fireworks
-    { points = 3, page = 7, box = "02-07-02", desc = "user clicks mouse, firework shoots from the bottom towards mouse"},
-    { points = 3, page = 7, box = "02-07-02", desc = "firework moves to mouse position over time"},
-    { points = 3, page = 7, box = "02-07-02", desc = "firework disappears (explodes) when it gets to position"},
-    { points = 2, page = 7, box = "02-07-02", desc = "small moving pieces appear where big one explodes"},
-    { points = 2, page = 7, box = "02-07-02", desc = "pieces move outward from explosion"},
-    { points = 3, page = 7, box = "02-07-02", desc = "multiple fireworks at once (if user clicks quickly)"},
-    { points = 2, page = 7, box = "02-07-02", desc = "fireworks are different colors"},
+    { points = 3, page = 7, box = "02-08-01", desc = "user clicks mouse, firework shoots from the bottom towards mouse"},
+    { points = 3, page = 7, box = "02-08-01", desc = "firework moves to mouse position over time"},
+    { points = 3, page = 7, box = "02-08-01", desc = "firework disappears (explodes) when it gets to position"},
+    { points = 2, page = 7, box = "02-08-01", desc = "small moving pieces appear where big one explodes"},
+    { points = 2, page = 7, box = "02-08-01", desc = "pieces move outward from explosion"},
+    { points = 3, page = 7, box = "02-08-01", desc = "multiple fireworks at once (if user clicks quickly)"},
+    { points = 2, page = 7, box = "02-08-01", desc = "fireworks are different colors"},
 ]
 bonus = [
     { points = 1, page = 7, box = "02-07-01", desc = "having the circle change color when clicked (advanced points), with the hover behavior still working"},
     # fireworks
-    { points = 2, page = 7, box = "02-07-02", desc = "explosions fade out (or disappear) after a distance"},
-    { points = 1, page = 7, box = "02-07-02", desc = "fireworks start from random locations at bottom"},
-    { points = 1, page = 7, box = "02-07-02", desc = "random fireworks in addition to user clicks"},
-    { points = 2, page = 7, box = "02-07-02", desc = "projectile motion"}
+    { points = 2, page = 7, box = "02-08-01", desc = "explosions fade out (or disappear) after a distance"},
+    { points = 1, page = 7, box = "02-08-01", desc = "fireworks start from random locations at bottom"},
+    { points = 1, page = 7, box = "02-08-01", desc = "random fireworks in addition to user clicks"},
+    { points = 2, page = 7, box = "02-08-01", desc = "projectile motion"}
 ]
 
 ######################################################################
