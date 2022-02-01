@@ -129,24 +129,24 @@ learninggoals = [
     "Understand how hierearchy and transformation is represented in a scene-graph API such as SVG",
     "Be able to use SVG (as a file format) including its hierarchy and instancing features"
 ]
-maxbonus = 11
+maxbonus = 8
 points = [
-    { points = 20, page = "none", box= "none", desc = "correctly turning in the assignment"},
-    { points = 5, page = 1, box = "03-01-06", desc = "restore the triangle to original position when the “Jump Right” button is released"},
-    { points = 5, page = 2, box = "03-02-06", desc = "change the scales so the two pictures look the same"},
-    { points = 5, page = 3, box = "03-03-03", desc = "add appropriate transformations to make both images look the same"},
-    { points = 5, page = 3, box = "03-03-05", desc = "define the canvas coordinate systems as specified"},
-    { points = 10, page = 6, box = "03-06-01", desc = "quadcopter has a front and 4 arms"},
-    { points = 10, page = 6, box = "03-06-01", desc = "four attached propellers that spin"},
-    { points = 2, page = 6, box = "03-06-01", desc = "propellers spin at different rates"},
+    { points = 40, page = "none", box= "none", desc = "correctly turning in an assignment with the survey"},
+    { points = 3, page = 1, box = "03-01-06", desc = "restore the triangle to original position when the “Jump Right” button is released"},
+    { points = 3, page = 2, box = "03-02-06", desc = "change the scales so the two pictures look the same"},
+    { points = 3, page = 3, box = "03-03-03", desc = "add appropriate transformations to make both images look the same"},
+    { points = 3, page = 3, box = "03-03-05", desc = "define the canvas coordinate systems as specified"},
+    { points = 6, page = 6, box = "03-06-01", desc = "quadcopter has a front and 4 arms"},
+    { points = 8, page = 6, box = "03-06-01", desc = "four attached propellers that spin"},
+    { points = 3, page = 6, box = "03-06-01", desc = "propellers spin at different rates"},
     { points = 3, page = 6, box = "03-06-01", desc = "goes around a circle"},
     { points = 3, page = 6, box = "03-06-01", desc = "faces points forward while going around circle"},
     #
-    { points = 5, page = 8, box = "03-08-01", desc = "a picture using SVG"},
-    { points = 3, page = 8, box = "03-08-01", desc = "at least one path with an arc"},
-    { points = 3, page = 8, box = "03-08-01", desc = "at least one polygon that is not a rectangle"},
-    { points = 3, page = 8, box = "03-08-01", desc = "a hierarchy using grouping"},
-    { points = 3, page = 8, box = "03-08-01", desc = "repeated instancing via use"}
+    { points = 3, page = 8, box = "03-08-01", desc = "a picture using SVG"},
+    { points = 2, page = 8, box = "03-08-01", desc = "at least one path with an arc"},
+    { points = 2, page = 8, box = "03-08-01", desc = "at least one polygon that is not a rectangle"},
+    { points = 2, page = 8, box = "03-08-01", desc = "a hierarchy using grouping"},
+    { points = 2, page = 8, box = "03-08-01", desc = "repeated instancing via use"}
 ]
 bonus = [
     { points = 2, page = 6, box = "03-06-01", desc = "multiple vehicles (must have spinning parts)"},
@@ -156,7 +156,7 @@ bonus = [
     { points = 2, page = 6, box = "03-06-01", desc = "quadcopters do something beyond move in a path"},
     { points = 1, page = 6, box = "03-06-01", desc = "other articulated object"},
     #
-    { points = 3, page = 8, box = "03-08-01", desc = "artistic merit in the SVG picture"}
+    # { points = 3, page = 8, box = "03-08-01", desc = "artistic merit in the SVG picture"}
 ]
 
 ######################################################################
