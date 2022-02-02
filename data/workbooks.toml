@@ -154,9 +154,7 @@ bonus = [
     { points = 2, page = 6, box = "03-06-01", desc = "cool looking vehicles"},
     { points = 2, page = 6, box = "03-06-01", desc = "interaction (be sure to document)"},
     { points = 2, page = 6, box = "03-06-01", desc = "quadcopters do something beyond move in a path"},
-    { points = 1, page = 6, box = "03-06-01", desc = "other articulated object"},
-    #
-    # { points = 3, page = 8, box = "03-08-01", desc = "artistic merit in the SVG picture"}
+    { points = 1, page = 6, box = "03-06-01", desc = "other articulated object"}
 ]
 
 ######################################################################

@@ -160,12 +160,9 @@ svg-tutorial:
   url: https://pages.graphics.cs.wisc.edu/559-sp22/tutorials/svg/
   name: "CS559 SVG Tutorial"
 
-2015-quadcopter-assignment:
-  url: http://graphics.cs.wisc.edu/WP/cs559-fall2015/2015/09/03/programming-assignment-2/
-  name: "2015 Quadcopter Assignment"
-2015-quadcopter-example:
-  url: http://graphics.cs.wisc.edu/Courses/559-f2015/Examples/QuadCopter/quad.html
-  name: "2015 Quadcopter Example"
+2021-wb3-gallery:
+  url: http://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb03/
+  name: "2021 Workbook 3 Gallery"
 
 # Course Web (Spring 2022)
 tools:
