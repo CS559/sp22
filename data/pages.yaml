@@ -275,6 +275,9 @@ hughsk-boids:
 boids-video:
   url: https://www.youtube.com/watch?v=bqtqltqcQhw&
   name: "YouTube video by Sebastian Lague"
+2008-boids:
+  url: https://cs559.github.io/2008Boids/
+  name: "2008 Boids Demo"
 
 
 craig-reynolds:
