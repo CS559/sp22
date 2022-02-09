@@ -260,9 +260,6 @@ DeCastlejau_4:
   url: https://mediaspace.wisc.edu/media/1_b45evtd7
   name: "DeCastlejau 4"
 
-2008-boids-example:
-  url: https://pages.cs.wisc.edu/~gleicher/OldHacks/2008Boids/ #TODO this doesn't work - find another example or ask Gleicher to fix this?
-  name: "2008 Boids Example"
 2012-games-project:
   url: http://graphics.cs.wisc.edu/WP/games12/2012/09/06/project-1-an-in-browser-game-with-flocking/
   name: "2012 Games Class Projects"
@@ -272,6 +269,13 @@ ian-irene-games-project:
 jeff-chris-games-project:
   url: http://graphics.cs.wisc.edu/Courses/Games10/proj1/HugoMills/
   name: "Jeff and Chris' Sheep Herder Game"
+hughsk-boids:
+  url: https://hughsk.io/boids/
+  name: "Online Boids Demo"
+boids-video:
+  url: https://www.youtube.com/watch?v=bqtqltqcQhw&
+  name: "YouTube video by Sebastian Lague"
+
 
 craig-reynolds:
   name: "Craig Reynolds"
