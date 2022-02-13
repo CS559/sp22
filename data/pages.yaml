@@ -342,6 +342,9 @@ understanding-es6-ch13:
   name: "this chapter in Understanding ES6"
 
 # 2021 Galleries
+gallery-21:
+  url: https://pages.graphics.cs.wisc.edu/559-sp21/gallery/
+  name: "2021 Workbook Galleries"  
 wb02-gallery-21: 
   url: https://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb02/
   name: "2021 Workbook 2 Gallery"
