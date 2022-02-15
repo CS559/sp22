@@ -89,7 +89,7 @@ canvas-calendar:
   url: https://canvas.wisc.edu/calendar?include_contexts=course_293042
 canvas-summary:
   name: "Canvas Summary (calendar list)"
-  url: https://canvas.wisc.edu/courses/293042/external_tools/5326
+  url: https://canvas.wisc.edu/courses/293042/external_tools/16911
 
 ## Books in Canvas - unfortunately, can't do this with the file list
 fcg-canvas:
