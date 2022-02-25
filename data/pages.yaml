@@ -278,6 +278,18 @@ boids-video:
 2008-boids:
   url: https://cs559.github.io/2008Boids/
   name: "2008 Boids Demo"
+1999-train:
+  url: https://research.cs.wisc.edu/graphics/Courses/638-f1999/Projects/proj3.htm
+  name: "1999 Train Assignment"
+2014-train:
+  url: http://graphics.cs.wisc.edu/WP/cs559-fall2014/2014/10/13/project-1-trains-and-roller-coasters/
+  name: "2014 Train Assignment"
+2008-train-expert:
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/pubs/pub_train_samtrain.jpg
+  name: "the train expert"
+2008-train:
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-p3-train/
+  name: "2008 Train Assignment"
 
 
 craig-reynolds:
@@ -339,7 +351,13 @@ pla_library:
   name: "Practical Linear Algebra at the UW Library"
 understanding-es6-ch13:
   url: https://github.com/nzakas/understandinges6/blob/master/manuscript/13-Modules.md
-  name: "this chapter in Understanding ES6"
+  name: "this chapter in Understanding ES6"
+wikipedia-bogie:
+  url: https://en.wikipedia.org/wiki/Bogie
+  name: "Wikipedia article"
+wikipedia-bogie-diagram:
+  url: https://en.wikipedia.org/wiki/Bogie#/media/File:Bogie_Vehicle_Schematic-en.svg
+  name: "this diagram"
 
 # 2021 Galleries
 gallery-21:
