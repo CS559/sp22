@@ -290,7 +290,12 @@ boids-video:
 2008-train:
   url: https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-p3-train/
   name: "2008 Train Assignment"
-
+2008-constructionsite:
+  name: "2008 Construction Site"
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-constructionsite/
+2008-excavator:
+  name: "2008 Excavator"
+  url: https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-excavator/
 
 craig-reynolds:
   name: "Craig Reynolds"
@@ -342,6 +347,75 @@ mozilla-atan2:
   url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2
   name: "Mozilla `atan2` documentation"
 
+# three.js
+threejs:
+  name: "THREE.js Documentation"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/
+threejs-object3D:
+  name: "documentation for `Object3D`"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/index.html#api/en/core/Object3D
+threejs-group:
+  name: "documentation for `Group`"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/index.html#api/en/objects/Group
+threejs-orbitControls:
+  name: "documentation for `OrbitControls`"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#examples/controls/OrbitControls
+threejs-webGlRenderer:
+  name: "WebGLRenderer"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/index.html#api/en/renderers/WebGLRenderer
+threejs-axesHelper:
+  name: "AxesHelper"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/helpers/AxesHelper
+threejs-cameraHelper:
+  name: "CameraHelper"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/helpers/CameraHelper
+threejs-mesh:
+  name: "Mesh"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/index.html#api/en/objects/Mesh
+threejs-meshStandardMaterial:
+  name: "MeshStandardMaterial"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/materials/MeshStandardMaterial
+threejs-meshPhongMaterial:
+  name: "MeshPhongMaterial"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/materials/MeshPhongMaterial
+threejs-matrix:
+  name: "matrix transformations"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#manual/en/introduction/Matrix-transformations
+threejs-perspectiveCamera:
+  name: "PerspectiveCamera"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/cameras/PerspectiveCamera
+threejs-ambientLight:
+  name: "AmbientLight"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/lights/AmbientLight
+threejs-pointLight:
+  name: "PointLight"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/lights/PointLight
+threejs-spotLight:
+  name: "SpotLight"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/lights/SpotLight
+threejs-directionalLight:
+  name: "DirectionalLight"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/lights/DirectionalLight
+threejs-sphere:
+  name: "sphere"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/api/en/geometries/SphereGeometry.html
+threejs-cone:
+  name: "cone"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/geometries/ConeGeometry
+threejs-lathe:
+  name: "lathe"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/geometries/LatheGeometry
+threejs-getting-started:
+  name: "THREE.js Getting Started"
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/index.html#manual/en/introduction/Creating-a-scene
+threejs-tutorial:
+  name: "THREE.js Tutorial"
+  url: https://medium.com/@benjamin.c.coleman/the-beginners-guide-to-beginning-three-js-c36b8947c2aa
+
+framework-documentation:
+  name: "Framework Documentation"
+  url: https://cs559.github.io/CS559-Framework21/
+
 # general stuff
 hugo:
   url: https://gohugo.io/
@@ -358,6 +432,38 @@ wikipedia-bogie:
 wikipedia-bogie-diagram:
   url: https://en.wikipedia.org/wiki/Bogie#/media/File:Bogie_Vehicle_Schematic-en.svg
   name: "this diagram"
+aviator-game:
+  name: "Aviator Game"
+  url: https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
+snowman-wikipedia:
+  name: "Snowman"
+  url: https://en.wikipedia.org/wiki/Snowman
+roundabout-wikipedia:
+  name: "Roundabout"
+  url: https://en.wikipedia.org/wiki/Roundabout_(play)
+concrete-pumper-1:
+  name: "Potratz"
+  url: http://www.potratzsouth.com/
+concrete-pumper-2:
+  name: "Gordy's"
+  url: http://gordysconcretepumping.com/
+pile-driver:
+  name: "Pile Driver"
+  url: https://en.wikipedia.org/wiki/Pile_driver
+jsdoc:
+  name: "jsdoc"
+  url: http://usejsdoc.org/
+explore-js:
+  name: "Exploring JS Ch15"
+  url: http://exploringjs.com/es6/ch_classes.html
+ellas-deli:
+  name: "Ella's Deli"
+  url: https://isthmus.com/news/news/epic-buys-carousel-from-ellas-deli/
+  old_url: http://www.ellasdeli.com/carousel.php
+  updated: "3/7/2021"
+trip-savvy:
+  name: "Trip Savvy"
+  url: https://www.tripsavvy.com/types-of-theme-park-attractions-4110823
 
 # 2021 Galleries
 gallery-21:
