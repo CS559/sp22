@@ -296,6 +296,9 @@ boids-video:
 2008-excavator:
   name: "2008 Excavator"
   url: https://graphics.cs.wisc.edu/Courses/559-f2008/posts/assignments-excavator/
+2015-texture-example:
+  url: https://cs559.github.io/S20-FrameworkDemos/WebGLTexture/texture.html
+  name: "2015 example"
 
 craig-reynolds:
   name: "Craig Reynolds"
@@ -411,10 +414,31 @@ threejs-getting-started:
 threejs-tutorial:
   name: "THREE.js Tutorial"
   url: https://medium.com/@benjamin.c.coleman/the-beginners-guide-to-beginning-three-js-c36b8947c2aa
+threejs-geometry:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Geometry
+  name: "Geometry"
+threejs-face3:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Face3
+  name: "`Face3`"
+threejs-texture:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/textures/Texture
+  name: "`Texture`"
+discoverthreejs-transformations-tutorial:
+  url: https://discoverthreejs.com/book/1-first-steps/6-shapes-transformations/
+  name: "this tutorial"
+discoverthreejs-textures-intro:
+  url: https://discoverthreejs.com/book/1-first-steps/4-textures-intro/
+  name: "this Discover ThreeJS tutorial"
+threejsfundamentals-textures-tutorial:
+  url: https://threejsfundamentals.org/threejs/lessons/threejs-textures.html
+  name: "nice tutorial on texture mapping"
+allen-threejs-baby-steps:
+  url: http://rogerallen.github.io/webgl/2014/01/24/threejs-baby-steps
+  name: "ThreeJS Baby Steps"
 
 framework-documentation:
   name: "Framework Documentation"
-  url: https://cs559.github.io/CS559-Framework21/
+  url: https://cs559.github.io/CS559-Framework/
 
 # general stuff
 hugo:
@@ -464,6 +488,12 @@ ellas-deli:
 trip-savvy:
   name: "Trip Savvy"
   url: https://www.tripsavvy.com/types-of-theme-park-attractions-4110823
+dominoes-image:
+  url: https://www.123rf.com/photo_48347848_stock-vector-full-set-of-realistic-white-domino-pieces-vector-illustration-.html
+  name: "in a drawing"
+roof-types:
+  url: https://www.roofingcalc.com/top-20-roof-types/
+  name: "this page"
 
 # 2021 Galleries
 gallery-21:
