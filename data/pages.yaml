@@ -299,6 +299,9 @@ boids-video:
 2015-texture-example:
   url: https://cs559.github.io/S20-FrameworkDemos/WebGLTexture/texture.html
   name: "2015 example"
+2020-lecture-19:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp2020/posts/lecture19/
+  name: "Lecture 19/20"
 
 craig-reynolds:
   name: "Craig Reynolds"
@@ -435,10 +438,40 @@ threejsfundamentals-textures-tutorial:
 allen-threejs-baby-steps:
   url: http://rogerallen.github.io/webgl/2014/01/24/threejs-baby-steps
   name: "ThreeJS Baby Steps"
+threejs-meshstandardmaterial:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/materials/MeshStandardMaterial
+  name: "`MeshStandardMaterial`"
+unity-standard-shader-material-parameter-normal-map:
+  url: https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html
+  name: "Unity documentation"
+threejs-mesh-standard-material:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/materials/MeshStandardMaterial.envMap
+  name: "documentation"
+threejs-cube-texture:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/textures/CubeTexture
+  name: "`CubeTextureMap`"
+threejs-scene-background:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/scenes/Scene.background
+  name: "`background` of the `Scene`"
+threejs-cube-texture-loader:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/loaders/CubeTextureLoader
+  name: "`CubeTextureLoader`"
+threejs-shader-material:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/materials/ShaderMaterial
+  name: "documentation"
+threejs-webgl-program:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/renderers/webgl/WebGLProgram
+  name: "this page"
+framework-shader-helper:
+  url: https://cs559.github.io/CS559-Framework21-Docs/module-shaderHelper.html
+  name: "documentation"
 
 framework-documentation:
   name: "Framework Documentation"
   url: https://cs559.github.io/CS559-Framework/
+2020-framework-demos:
+  url: https://cs559.github.io/S20-FrameworkDemos/
+  name: "demos"
 
 # general stuff
 hugo:
@@ -494,6 +527,60 @@ dominoes-image:
 roof-types:
   url: https://www.roofingcalc.com/top-20-roof-types/
   name: "this page"
+360toolkit-cubemap-converter:
+  url: https://www.360toolkit.co/convert-spherical-equirectangular-to-cubemap
+  name: "handy web converter"
+hdri-haven:
+  url: https://hdrihaven.com/
+  name: "HDRI Haven"
+bourke-cubemaps:
+  url: http://paulbourke.net/
+  name: "Site with lots of information on 360 photography, but it was re-organized so I don't know where the relevant pages are."
+shader-frog:
+  url: https://shaderfrog.com/
+  name: "ShaderFrog"
+khronos-webgl-reference-card:
+  url: https://www.khronos.org/files/webgl20-reference-guide.pdf
+  name: "WebGL Reference Card"
+bkcore-blog-shdr:
+  url: http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html
+  name: "here"
+glsl-sandbox:
+  url: http://glslsandbox.com/
+  name: "GLSL Sandbox"
+shadertoy:
+  url: https://www.shadertoy.com/
+  name: "ShaderToy"
+the-book-of-shaders-examples:
+  url: https://thebookofshaders.com/examples/
+  name: "The Book of Shaders"
+glsl-sandbox-wwi-dogfight:
+  url: http://glslsandbox.com/e#63078.0
+  name: "WWI dogfight"
+library-glsl-essentials:
+  url: https://search.library.wisc.edu/catalog/9912150691002121
+  name: "UW library"
+library-opengl4-shading-language-cookbook:
+  url: https://search.library.wisc.edu/catalog/9911069619502121
+  name: "OpenGL4 Shading Language Cookbook"
+shaderific-glsl-reference:
+  url: http://www.shaderific.com/glsl/
+  name: "GLSL reference"
+khronos-glsl-spec:
+  url: https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.4.60.pdf
+  name: "here"
+the-book-of-shaders:
+  url: https://thebookofshaders.com/
+  name: "The Book of Shaders"
+threejs-uniforms-lib:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/renderers/shaders/UniformsLib
+  name: "`UniformsLib`"
+shadertoy-snake:
+  url: https://www.shadertoy.com/view/wlVSDK
+  name: "Snake"
+webgl-ref-card:
+  url: https://www.khronos.org/files/webgl20-reference-guide.pdf
+  name: "WebGL Reference Card"
 
 # 2021 Galleries
 gallery-21:
