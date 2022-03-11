@@ -536,9 +536,9 @@ roof-types:
 360toolkit-cubemap-converter:
   url: https://www.360toolkit.co/convert-spherical-equirectangular-to-cubemap
   name: "handy web converter"
-hdri-haven:
-  url: https://hdrihaven.com/
-  name: "HDRI Haven"
+polyhaven:
+  url: https://polyhaven.com/
+  name: "Poly Haven"
 bourke-cubemaps:
   url: http://paulbourke.net/
   name: "Site with lots of information on 360 photography, but it was re-organized so I don't know where the relevant pages are."
