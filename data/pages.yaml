@@ -417,12 +417,15 @@ threejs-getting-started:
 threejs-tutorial:
   name: "THREE.js Tutorial"
   url: https://medium.com/@benjamin.c.coleman/the-beginners-guide-to-beginning-three-js-c36b8947c2aa
-threejs-geometry:
+threejs-buffergeometry:
   url: https://cs559.github.io/ThreeDocs_r137/docs/#api/en/core/BufferGeometry
   name: "Buffer Geometry"
-# threejs-face3: # HAS BEEN REMOVED - MAKE SURE REFERENCES ARE UPDATED
-#   url: https://cs559.github.io/ThreeDocs_r137/docs/#api/en/core/Face3
-#   name: "`Face3`"
+threejs-face3-deprecated:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Face3
+  name: "Face3 (deprecated)"
+threejs-geometry-deprecated:
+  url: https://graphics.cs.wisc.edu/Courses/559-sp21-three/three.js/docs/#api/en/core/Geometry
+  name: "Geometry (Deprecated)"
 threejs-texture:
   url: https://cs559.github.io/ThreeDocs_r137/docs/#api/en/textures/Texture
   name: "`Texture`"
