@@ -587,6 +587,9 @@ shadertoy-snake:
 webgl-ref-card:
   url: https://www.khronos.org/files/webgl20-reference-guide.pdf
   name: "WebGL Reference Card"
+glsl-book:
+  url: https://amzn.to/2x9wtyF
+  name: "The OpenGL Shading Language (3e)"
 
 # 2021 Galleries
 gallery-21:
