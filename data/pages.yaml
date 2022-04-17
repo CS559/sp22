@@ -601,3 +601,20 @@ wb02-gallery-21:
 wb03-gallery-21: 
   url: https://pages.graphics.cs.wisc.edu/559-sp21/gallery/wb03/
   name: "2021 Workbook 3 Gallery"
+
+# graphics town web
+grtown-index:
+  url: 
+  name: "Graphics Town (Index)"
+grtown-instructions:
+  url:
+  name: "Graphics Town Instructions"
+grtown-rubric:
+  url:
+  name: "Graphics Town Rubric"
+grtown-hints:
+  url:
+  name: "Graphics Town Hints"
+grtown-instructions-attribution:
+  url:
+  name: "Graphics Town Instructions - Attribution"
