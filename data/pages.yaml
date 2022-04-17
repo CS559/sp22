@@ -615,6 +615,9 @@ grtown-instructions:
 grtown-hints:
   url: https:/pages.graphics.cs.wisc.edu/559-sp22/grtown/hints
   name: "2022 Graphics Town Hints"
+grtown-advanced:
+  url: https:/pages.graphics.cs.wisc.edu/559-sp22/grtown/advaced
+  name: "2022 Graphics Town Advanced Things"
 grtown-instructions-attribution:
   url: https:/pages.graphics.cs.wisc.edu/559-sp22/grtown/grtown/#collaboration-use-re-use-and-attribution
   name: "2022 Graphics Town Attribution Instructions"
